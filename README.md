@@ -15,6 +15,6 @@ vTuner (internet radio system) has not been working on Pioneer receivers for som
 2. Change the `your_ssid` and `your_pass` fields.
 3. Flash the code to the card.
 4. Find the IP address after your card is connected to Wi-Fi.
-5. Change the **Primary DNS** in the Pioneer settings to the IP address of your card.
+5. Change the **Primary DNS** in the Pioneer settings to the IP address if your card.
 
-Now enjoy listening to internet radio without any problems.
+Now enjoy listening to internet radio without any problems
