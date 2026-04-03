@@ -1,6 +1,6 @@
 # Pioneer vTuner Fix (ESP8266)
 
-vTuner (internet radio system) has not been working on Pioneer receivers for some time. Here is a method to fix this issue using an ESP8266.
+vTuner (internet radio system) has not been working on Pioneer receivers for some time. Here is a method to fix this issue using an ESP8266
 
 ## Requirements
 
